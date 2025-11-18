@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto - Brazilian Jiu-Jitsu</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>Contacto</h1>
+    <nav>
+        <a href="index.html">Inicio</a>
+        <a href="contenidos.html">Contenidos</a>
+        <a href="contacto.html">Contacto</a>
+    </nav>
+</header>
+
+<section class="contacto">
+    <h2>Envíanos un mensaje</h2>
+    <form>
+        <label>Nombre:</label>
+        <input type="text" required>
+
+        <label>Email:</label>
+        <input type="email" required>
+
+        <label>Mensaje:</label>
+        <textarea rows="5" required></textarea>
+
+        <button type="submit">Enviar</button>
+    </form>
+</section>
+
+<footer>
+    <p>© 2025 Brazilian Jiu-Jitsu Web</p>
+</footer>
+
+</body>
+</html>
