@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contenidos - Brazilian Jiu-Jitsu</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>Contenidos de BJJ</h1>
+    <nav>
+        <a href="index.html">Inicio</a>
+        <a href="contenidos.html">Contenidos</a>
+        <a href="contacto.html">Contacto</a>
+    </nav>
+</header>
+
+<section class="contenido">
+
+    <h2>Técnicas Básicas</h2>
+
+    <!-- Imagen 1 (URL) -->
+    <img 
+        src="https://th.bing.com/th/id/R.029e6a3779fd17bc98416f747a8aa70e?rik=8rdjKUF00Clg3Q&riu=http%3a%2f%2fwww.combatarena.es%2fcdn%2fshop%2farticles%2fbjj.jpg%3fv%3d1695911535&ehk=kGE%2bDj47oQmD2vbDZY9N9BYZeLgEDCJLh1WzKg1mblw%3d&risl=&pid=ImgRaw&r=0" 
+        alt="Practicantes de Brazilian Jiu-Jitsu" 
+        class="imagen-bjj"
+    >
+
+    <ul>
+        <li>Guardia Cerrada</li>
+        <li>Pasaje de Guardia</li>
+        <li>Montada</li>
+        <li>Side Control (Control lateral)</li>
+        <li>Raspados (Sweeps)</li>
+    </ul>
+
+    <h2>Sumisiones Comunes</h2>
+
+    <!-- Imagen 2 (URL) -->
+    <img 
+        src="https://portalnorte.com.br/wp-content/uploads/2023/04/jiu-jitsu-FOTO-Mauro-Neto.jpeg"  
+        alt="Competidores de BJJ aplicando una técnica" 
+        class="imagen-bjj"
+    >
+
+    <ul>
+        <li>Armbar (Llave de brazo)</li>
+        <li>Triangle Choke (Triángulo)</li>
+        <li>Rear Naked Choke (Mata León)</li>
+        <li>Kimura</li>
+        <li>Americana</li>
+    </ul>
+
+    <h2>Beneficios del BJJ</h2>
+    <p>
+        - Mejora la resistencia física<br>
+        - Aumenta la autoconfianza<br>
+        - Desarrolla disciplina<br>
+        - Fomenta el pensamiento estratégico<br>
+        - Excelente defensa personal
+    </p>
+</section>
+
+<footer>
+    <p>© 2025 Brazilian Jiu-Jitsu Web</p>
+</footer>
+
+</body>
+</html>
