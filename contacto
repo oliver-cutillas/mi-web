@@ -17,17 +17,22 @@
     </nav>
 </header>
 
-<section class="contacto">
-    <h2>Envíanos un mensaje</h2>
+<section>
+    <h2>¿Quieres saber más sobre BJJ?</h2>
+    <p>
+        Si tienes preguntas, deseas aprender más sobre técnicas o buscas recomendaciones de academias,
+        puedes enviarnos un mensaje a través del siguiente formulario. ¡Intentamos responder a todos!
+    </p>
+
     <form>
         <label>Nombre:</label>
-        <input type="text" required>
+        <input type="text" placeholder="Tu nombre" required>
 
         <label>Email:</label>
-        <input type="email" required>
+        <input type="email" placeholder="Tu correo electrónico" required>
 
         <label>Mensaje:</label>
-        <textarea rows="5" required></textarea>
+        <textarea rows="5" placeholder="Escribe tu mensaje..." required></textarea>
 
         <button type="submit">Enviar</button>
     </form>
